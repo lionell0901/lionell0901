@@ -1,67 +1,64 @@
-# 안녕하세요, 디노입니다 👋
+# 안녕하세요! 저는 디노입니다 👋
 
 **교육과 AI를 연결하는 개발자**  
-청소년지도사에서 AI/데이터 개발자로 전환 중입니다.
+청소년지도사에서 AI/데이터 개발자로 전환 중 🚀
 
 ## About Me
 
-현재 구립청소년센터에서 7년간 근무하며 **400명 규모의 직장인 AI 커뮤니티**를 운영하고 있습니다.  
-교육에 대한 깊은 이해를 바탕으로 **AI를 누구나 쉽게 접근할 수 있는 방법**을 연구하며, AI/데이터 개발자로의 이직을 준비하고 있습니다.
+- 현재: 구립청소년센터 7년차 → AI/데이터 개발자 이직 준비
+- 전공: 청소년지도학 (교육에 대한 깊은 이해)
+- 특별한 점: 500명 규모의 직장인 대상 AI 커뮤니티 운영 중
+- 목표: AI를 누구나 쉽게 사용할 수 있는 플랫폼 & 커뮤니티 구축
 
-- **전공**: 청소년지도학
-- **현재**: AI데이터 개발자 과정 수강 중
-- **목표**: AI를 모든 사람이 쉽게 사용할 수 있는 플랫폼 및 커뮤니티 구축
+## 현재 진행 중인 프로젝트
 
-## Current Projects
+- **직장인 AI 커뮤니티 운영** (500여명 규모)
+- **AI 강의 기획 및 진행** 
+- **AI데이터 개발자 과정 수강**
+- **중장년층 대상 AI 커뮤니티 기획**
 
-**직장인 AI 커뮤니티 운영** (400명 규모)
-- AI 강의 기획 및 진행
-- 커뮤니티 운영 및 관리
-- AI 활용법 교육 콘텐츠 개발
+## Tech Stack
 
-**중장년층 AI 커뮤니티 기획**
-- 중장년층 대상 AI 교육 프로그램 설계
-- 접근성을 고려한 AI 도구 소개
+### 언어 & 도구
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Tech Stack & Interests
+### 관심 분야
+- 데이터 분석 & 머신러닝
+- Kaggle 경진대회 참여
+- 새로운 사업 기획
+- AI 교육 콘텐츠 개발
 
-**주요 기술**: Python 중심의 데이터 분석 및 머신러닝  
-**개발 도구**: VS Code, Python 생태계  
-**관심 분야**: 데이터 분석, Kaggle 경진대회, AI 교육, 사업 기획
+## 협업하고 싶은 분야
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- 교육 플랫폼 개발 (EdTech)
+- AI 커뮤니티 기획 및 운영
+- AI/데이터 강의 콘텐츠 제작
+- 누구나 쉽게 사용할 수 있는 AI 도구 개발
 
-## Looking for Collaboration
+## GitHub Stats
 
-다음 분야에서 협업하고 싶습니다:
-- **교육 플랫폼 개발** (EdTech)
-- **AI 커뮤니티 기획 및 운영**
-- **AI 교육 콘텐츠 제작**
-- **사용자 친화적인 AI 도구 개발**
+![디노's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionell0901&show_icons=true&theme=radical)
 
-## GitHub Activity
+## 특별한 점
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lionell0901&show_icons=true&theme=default&hide_border=true)
-
-## My Approach
-
-> "AI는 어려운 기술이 아니라, 쉽게 전달하지 못한 기술입니다."
-
-7년간의 교육 경험을 통해 복잡한 개념을 쉽게 설명하는 능력을 키웠습니다.  
+교육 현장 7년 경험을 통해 복잡한 개념을 쉽게 설명하는 능력을 키웠습니다.  
 이제 이 경험을 AI 분야에 적용하여, 모든 사람이 AI를 자연스럽게 활용할 수 있는 환경을 만들고 싶습니다.
 
-## Personal Interests
+## 취미 & 관심사
 
-**업무 외 관심사**: 운동, 독서, 애플 제품 리뷰, 중고거래  
-**학습**: Python, AI 활용법, 웹 개발
+- 운동 - 운동은 참을 수 없음
+- 독서 - 자기계발보다 재미로 읽기
+- 애플 제품 - 애플 제품에 애착이 강함
+- 중고거래 - 적당한 가격에 좋은 제품 구매하기
 
-## Contact
+## 연락하기
 
-**Email**: lionell20@naver.com  
-**AI 커뮤니티 및 교육 관련 문의 환영합니다**
+- **Email**: lionell20@naver.com
+- **AI 커뮤니티 관련 문의** 언제든 환영합니다!
 
 ---
 
-*함께 만들어가는 AI 친화적인 세상을 꿈꿉니다*
+> *"어떻게 AI를 사용하는가가 아닌, 어떻게 AI를 활용할 것인가."*  
+> **기술은 도구가 아닌, 사고 방식의 전환점이 되어야 합니다.**
