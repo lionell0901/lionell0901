@@ -35,7 +35,7 @@
 - 전 연령대가 **즐겁게 배우는** AI 활용 교육
 
 ## 성과 & 실적
-![디노's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionell0901&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![디노's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionell0901&show_icons=true&theme=radical)
 
 ### 주요 성과
 - 🎯 **1,500명 대규모 프로젝트** 성공적 운영
