@@ -52,7 +52,7 @@
 
 ## 연락하기
 - **Email**: lionell20@naver.com
-- **Portfolio**: [상세 포트폴리오 보기]([링크](https://lionell0901.github.io/))
+- **Portfolio**: [상세 포트폴리오 보기](https://lionell0901.github.io/)
 - **AI 커뮤니티 & 교육 관련 문의** 언제든 환영합니다!
 
 ---
